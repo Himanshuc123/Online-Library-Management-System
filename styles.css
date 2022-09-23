@@ -1,0 +1,116 @@
+*
+{
+    margin:0px;
+    box-sizing: border-box;
+}
+
+body
+{
+    padding: 0px;
+}
+
+.wrapper
+{
+    height:700px;
+    width:1349px;
+}
+
+header
+{
+    height: 100px;
+    width: 1349px;
+    background: black;
+}
+
+section
+{
+    height: 600px;
+    width: 1349px;
+    background-color:gray;
+}
+
+footer
+{
+    height: 60px;
+    width:1349px;
+    background:black;
+}
+
+.logo{
+
+    padding-left: 20px;
+    float:left;
+}
+
+li a
+{
+    color :white;
+    text-decoration: none;
+}   
+
+nav
+{
+    float:right;
+    word-spacing: 30px;
+    padding-right:20px;
+}
+
+nav li
+{
+    display: inline-block;
+    line-height:60px;
+}
+
+section .sec_img
+{
+   height: 600px;
+   background-image: url("http://localhost/library/images/background.jpg");
+   
+}
+
+.container
+{
+    height:500px;
+    width: 400px;
+    margin: 80px auto;
+}
+
+p
+{
+    text-align:center;
+    color:white;
+    word-spacing: 3px;
+}
+
+
+
+
+/*----------------------st_login-----------------------------*/
+
+.log_img
+{
+    height: 600px;
+    background-image: url("http://localhost/library/images/kazuend-DHk_mju83z0-unsplash.jpg");
+}
+
+input{
+    height:100px;
+    width:80px;
+    margin: auto 500px;
+    border:none;
+}
+
+button{
+    margin:auto 500px;
+}
+
+/*------- Registration ------*/
+
+.reg_img{
+
+    height:650px;
+    
+    background-image: url("http://localhost/library/images/becca-tapert-GnY_mW1Q6Xc-unsplash.jpg");
+}
+
+
